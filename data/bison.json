@@ -1,0 +1,41 @@
+[
+	{
+		"text": "yyparse()",
+		"description": "Basic function of Bison",
+		"descriptionMoreURL": "https://www.gnu.org/software/bison/manual/"
+	},
+	{
+		"text": "left",
+		"description": "Type of token - '%left'",
+		"descriptionMoreURL": "https://www.gnu.org/software/bison/manual/"
+	},
+	{
+		"text": "right",
+		"description": "Type of token - '%right'",
+		"descriptionMoreURL": "https://www.gnu.org/software/bison/manual/"
+	},
+  {
+		"text": "nonassoc",
+		"description": "Type of token - '%nonassoc'",
+		"descriptionMoreURL": "https://www.gnu.org/software/bison/manual/"
+	},{
+		"text": "type",
+		"description": "Type of token - '%type'",
+		"descriptionMoreURL": "https://www.gnu.org/software/bison/manual/"
+	},
+  {
+		"text": "token",
+		"description": "Token - '%token'",
+		"descriptionMoreURL": "https://www.gnu.org/software/bison/manual/"
+	},
+  {
+		"text": "union",
+		"description": "Structure of variable - '%union{ }'",
+		"descriptionMoreURL": "https://www.gnu.org/software/bison/manual/"
+	},
+  {
+		"text": "error-verbose",
+		"description": "Bison variable - '%error-verbose'",
+		"descriptionMoreURL": "https://www.gnu.org/software/bison/manual/"
+	}
+]

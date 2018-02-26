@@ -1,0 +1,32 @@
+[
+	{
+		"text": "option",
+		"description": "Variable of flex - '%option'",
+		"descriptionMoreURL": "ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html"
+	},
+	{
+		"text": "yytext",
+		"description": "Variable of flex",
+		"descriptionMoreURL": "ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html"
+	},
+	{
+		"text": "yylval",
+		"description": "Variable of flex",
+		"descriptionMoreURL": "ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html"
+	},
+	{
+		"text": "yylex()",
+		"description": "Basic function of flex",
+		"descriptionMoreURL": "ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html"
+	},
+	{
+		"text": "yyin",
+		"description": "Pointer for input file",
+		"descriptionMoreURL": "ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html"
+	},
+	{
+		"text": "yyout",
+		"description": "Pointer for output file",
+		"descriptionMoreURL": "ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html"
+	}
+]

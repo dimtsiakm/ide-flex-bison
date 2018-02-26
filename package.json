@@ -1,0 +1,55 @@
+{
+  "name": "flexbisonide",
+  "main": "./lib/flexbisonide.js",
+  "version": "0.0.0",
+  "description": "A Flex - Bison IDE",
+  "keywords": [
+    "flex",
+    "bison",
+    "ide",
+    "atom-ide",
+    "lexical",
+    "syntax",
+    "parser generator",
+    "GNU",
+    "University of Macedonia, Greece",
+    "thesis"
+  ],
+  "repository": "https://github.com/dimtsiakm/ide-flex-bison",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.23.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "^4.3.1",
+    "underscore-plus": "^1.0.0",
+    "fs-plus": "^3.0.0"
+  },
+  "package-deps": [
+    "build",
+    "build-make",
+	  "tool-bar",
+    "language-bison-flex"
+  ],
+  "providedServices": {
+    "autocomplete.provider": {
+        "versions": {
+            "2.0.0": "getProvider"
+        }
+    }
+},
+"consumedServices": {
+    "tree-view": {
+      "versions": {
+        "^1.0.0": "consumeTreeView"
+      }
+    }
+  },
+  "consumedServices": {
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolBar"
+      }
+    }
+  }
+}
