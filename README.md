@@ -2,12 +2,12 @@
 
 IDE for GNU Flex/BISON tools
 
-Assignment: thesis
-University: University of Macedonia, Thessaloniki, Greece
-Author: Dimitrios Tsiakmakis
-Leader: Ilias Sakellariou
-Date: 2018
-E-mail: housevetrinos@gmail.com
+* Assignment: thesis
+* University: University of Macedonia, Thessaloniki, Greece
+* Author: Dimitrios Tsiakmakis
+* Leader: Ilias Sakellariou
+* Date: 2018
+* E-mail: housevetrinos@gmail.com
 
 ## Installation
 
