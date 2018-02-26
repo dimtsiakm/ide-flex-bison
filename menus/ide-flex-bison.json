@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle Flex Bison Ide",
-        "command": "flexbisonide:toggle"
+        "command": "ide-flex-bison:toggle"
       }
     ]
   },

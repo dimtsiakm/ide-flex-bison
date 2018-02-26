@@ -1,0 +1,8 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "ide-flex-bison:toggle"
+  },
+  "atom-workspace": {
+    "ctrl-alt-l": "ide-flex-bison:toggle-rules"
+  }
+}

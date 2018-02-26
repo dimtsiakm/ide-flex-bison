@@ -1,8 +1,0 @@
-{
-  "atom-workspace": {
-    "ctrl-alt-o": "flexbisonide:toggle"
-  },
-  "atom-workspace": {
-    "ctrl-alt-l": "flexbisonide:toggle-rules"
-  }
-}
