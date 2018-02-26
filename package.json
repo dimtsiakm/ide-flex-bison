@@ -1,7 +1,7 @@
 {
   "name": "flexbisonide",
   "main": "./lib/flexbisonide.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Flex - Bison IDE",
   "keywords": [
     "flex",
@@ -28,20 +28,13 @@
   "package-deps": [
     "build",
     "build-make",
-	  "tool-bar",
+    "tool-bar",
     "language-bison-flex"
   ],
   "providedServices": {
     "autocomplete.provider": {
-        "versions": {
-            "2.0.0": "getProvider"
-        }
-    }
-},
-"consumedServices": {
-    "tree-view": {
       "versions": {
-        "^1.0.0": "consumeTreeView"
+        "2.0.0": "getProvider"
       }
     }
   },
