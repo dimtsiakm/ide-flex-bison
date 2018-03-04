@@ -7,7 +7,7 @@ IDE for GNU Flex/BISON tools
 * Author: Dimitrios Tsiakmakis
 * Leader: Ilias Sakellariou
 * Date: 2018
-* E-mail: housevetrinos@gmail.com
+* E-mail: it1237@uom.edu.gr
 
 ## Installation
 
