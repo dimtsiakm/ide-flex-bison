@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle Flex Bison Ide",
-        "command": "ide-flex-bison:toggle"
+        "label": "Toggle Flex-Bison Toolbar",
+        "command": "tool-bar:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "flex-bison-ide",
+          "label": "Flex Bison IDE",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "flexbisonide:toggle"
+              "label": "Toggle Toolbar",
+              "command": "tool-bar:toggle"
             }
           ]
         }
